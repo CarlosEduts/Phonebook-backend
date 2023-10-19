@@ -50,8 +50,8 @@ Carlos Eduardo.
 
 <a href="https://fullstackopen.com/ptbr/">Full Stack Open course </a>
 
-<a href="">Phonebook front-end </a>
+<a href="https://phonebook-backend-6b51.onrender.com">Phonebook front-end </a>
 
-<a href="">Phonebook Back-end </a>
+<a href="https://phonebook-backend-6b51.onrender.com/api/persons">Phonebook Back-end </a>
 
-<a href="">Phonebook Back-end Repository</a>
+<a href="https://github.com/CarlosEduts/Phonebook-backend.git">Phonebook Back-end Repository</a>
